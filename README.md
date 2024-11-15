@@ -26,7 +26,7 @@ To see the card designs in action, open `index.html` in your browser. *(Link to 
 ![Elevated Card](elevated.jpeg)
 
 ### Card Design 3: Vertical Normal Card
-![normal Card](bormal.jpeg)
+![Normal Card](normal.jpeg)
 
 ### Card Design 4: Responsive horizontal card
 ![Horizontal Card](horizontal.jpeg)
