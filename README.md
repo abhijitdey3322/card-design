@@ -23,10 +23,13 @@ To see the card designs in action, open `index.html` in your browser. *(Link to 
 ![Folder Card](folder.jpeg)
 
 ### Card Design 2: Elevated card
+![Elevated Card](elevated.jpeg)
 
 ### Card Design 3: Vertical Normal Card
+![normal Card](bormal.jpeg)
 
 ### Card Design 4: Responsive horizontal card
+![Horizontal Card](horizontal.jpeg)
 
 ## Getting Started
 
