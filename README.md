@@ -20,7 +20,7 @@ To see the card designs in action, open `index.html` in your browser. *(Link to 
 ## Card Designs
 
 ### Card Design 1: A folder design card
-!(folder.jpeg)
+![Folder Card](folder.jpeg)
 
 ### Card Design 2: Elevated card
 
